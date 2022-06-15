@@ -1,1 +1,1 @@
-my first directory README
+my Edited directory README
